@@ -3,7 +3,7 @@
 ## Overview
 This repository contains the content and structure for Paul Zakanja Masai's professional portfolio website, designed to showcase skills in data analytics and software development.
 
-## Portfolio Structure for Google Sites
+## Portfolio Structure
 
 ### 1. Home Page Content
 **Welcome Message:**
